@@ -1,8 +1,7 @@
-<p align="center"><img src="https://raw.githubusercontent.com/StapleButter/melonDS/master/icon/melon_128x128.png"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/52/91/cb/5291cb213e29869c239c94f019da2270.png"></p>
 <h2 align="center"><b>Mr Baji</b></h2>
 
 </p>
-DS emulator, sorta
-
-The goal is to do things right and fast, akin to blargSNES (but hopefully better). But also to, you know, have a fun challenge :)
+#جدیدترین سورس اس ام اس بمبر
+امیدوارم از این سورس لذت ببرید و چنل ما رو در تلگرام دنبال کنید  :)
 <hr> 
