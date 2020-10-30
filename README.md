@@ -2,7 +2,7 @@
 <h2 align="center"><b>Mr Baji</b></h2>
 
 </p>
-###جدیدترین سورس اس ام اس بمبر
+###The latest source of Bomber SMS
 
 امیدوارم از این سورس لذت ببرید و چنل ما رو در تلگرام دنبال کنید  :)
 <hr> 
